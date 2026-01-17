@@ -119,7 +119,7 @@ This project is suitable for:
 
 ## ✍️ Author
 **Mazen Naji**  
-Software Engineer | Game Developer | AI & ML Engineer  
+Software Engineer | Full Stack Developer    
 
 ---
 
