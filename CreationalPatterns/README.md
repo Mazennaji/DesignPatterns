@@ -135,9 +135,3 @@ Software Engineer | Full Stack Developer
 This project is intended for **educational purposes** and is free to use for learning, teaching, and academic use.
 
 ---
-
-If you want, I can next:
-
-* Create a **root README** that links all three pattern categories
-* Add **pattern-by-pattern mini READMEs**
-* Turn this into a **full university course repository** (labs, exams, projects)
