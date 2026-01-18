@@ -335,7 +335,6 @@ The **Decorator Pattern** provides a powerful and flexible alternative to inheri
 ---
 
 ## ✍️ Author
-
-**Mazen Naji**
-Software Engineer | Full Stack Developer
+**Mazen Naji**  
+Software Engineer | Full Stack Developer 
 
