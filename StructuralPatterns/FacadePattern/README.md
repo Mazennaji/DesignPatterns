@@ -383,7 +383,7 @@ The **Facade Pattern** provides a simplified, unified interface to a complex sub
 
 2. Run the Main class:
    ```bash
-   java Main
+   java Main.java
    ```
 
 3. Observe:
