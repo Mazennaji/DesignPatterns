@@ -343,7 +343,6 @@ java Main.java
 ---
 
 ## ✍️ Author
-
-**Mazen Naji**
-Software Engineer | Full Stack Developer
+**Mazen Naji**  
+Software Engineer | Full Stack Developer  
 
